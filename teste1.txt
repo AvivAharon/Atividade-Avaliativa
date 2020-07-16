@@ -1,1 +1,8 @@
-alterado Alterado Alterado Alterado Alterado
+<<<<<<< HEAD
+1-alterado 
+2-Alterado 
+3-Alterado 
+=======
+4-alterado 
+5-Alterado 
+>>>>>>> ramo1
